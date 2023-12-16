@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/fabio-c266/fabio-c266/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://imgur.com/goxi1Xu.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">💯 I am committed to providing the best solutions for you!. <br><br> <p>Using Next.js on the front-end, I am able to build performant and interactive interfaces, aiming to deliver an exceptional user experience. As for the backend, I leverage technologies such as Node.js or Laravel, ensuring an organized, secure, and high-performance environment.</p>&nbsp;
